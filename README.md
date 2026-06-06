@@ -163,9 +163,6 @@ available_for:
 
 <br/><br/>
 
-<!-- Stats — anuraghazra stable instance -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF3131&icon_color=FF3131&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FF3131&text_color=ffffff&cache_seconds=1800" />
 
 </div>
 
