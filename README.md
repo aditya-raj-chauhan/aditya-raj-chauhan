@@ -1,143 +1,111 @@
-<h1 align="center">🚀 Hey, I'm Aditya Raj Chauhan</h1>
-<h3 align="center">Java Full Stack Developer • Spring Boot • React.js • MongoDB</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Raj%20Chauhan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Spring+Boot+%E2%86%92+Building+Scalable+APIs;React.js+%E2%86%92+Crafting+Dynamic+UIs;MongoDB+%E2%86%92+Designing+Data+Systems;JWT+Auth+%E2%86%92+Securing+Applications;Microservices+%E2%86%92+Learning+%26+Scaling" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/aditya-raj-chauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/aditya-raj-chauhan)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0c29?style=for-the-badge&logo=instagram&logoColor=A78BFA)](https://instagram.com/_notyoutadii-)
+[![Profile Views](https://komarev.com/ghpvc/?username=aditya-raj-chauhan&label=views&color=A78BFA&style=for-the-badge)](https://github.com/aditya-raj-chauhan)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+React+Developer;Building+Scalable+Full+Stack+Applications;REST+API+%7C+JWT+Auth+%7C+MongoDB;Clean+Code+%7C+Production+Ready+Projects" />
-</p>
-
----
-
-# 💫 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 ```java
 class Developer {
-
-    String name = "Aditya Raj Chauhan";
-    String role = "Java Full Stack Developer";
-    String backend = "Spring Boot";
-    String frontend = "React.js";
-    String database = "MongoDB";
-    String passion = "Building scalable real-world applications";
-
+  String name     = "Aditya Raj Chauhan";
+  String role     = "Java Full Stack Developer";
+  String backend  = "Spring Boot + Security + JWT";
+  String frontend = "React.js + Redux + Tailwind";
+  String database = "MongoDB + MySQL";
+  String deploy   = "Vercel + Render";
+  String building = "Scalable real-world applications";
 }
 ```
 
-- ☕ Full Stack Developer focused on **Java + Spring Boot**
-- ⚛️ Creating dynamic frontend applications using **React.js**
-- 🛢️ Designing scalable backend systems with **MongoDB**
-- 🔐 Working with **JWT Authentication & REST APIs**
-- 📦 Building production-ready applications with clean architecture
-- 🚀 Exploring advanced **Spring Security & Microservices**
-- 💻 Strong focus on backend logic, API optimization & UI performance
-- 🧠 Learning system design & scalable application patterns
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Stack
 
-## 👨‍💻 Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages**
 
----
+![Java](https://img.shields.io/badge/Java-0f0c29?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA)
 
-## ⚛️ Frontend Development
+**Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
+![Redux](https://img.shields.io/badge/Redux-0f0c29?style=for-the-badge&logo=redux&logoColor=A78BFA)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f0c29?style=for-the-badge&logo=tailwind-css&logoColor=A78BFA)
+![React Router](https://img.shields.io/badge/React_Router-0f0c29?style=for-the-badge&logo=react-router&logoColor=A78BFA)
+![Axios](https://img.shields.io/badge/Axios-0f0c29?style=for-the-badge&logo=axios&logoColor=A78BFA)
 
----
+**Backend**
 
-## ☕ Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f0c29?style=for-the-badge&logo=springboot&logoColor=A78BFA)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0f0c29?style=for-the-badge&logo=springsecurity&logoColor=A78BFA)
+![REST API](https://img.shields.io/badge/REST_API-0f0c29?style=for-the-badge&logoColor=A78BFA)
+![JWT](https://img.shields.io/badge/JWT-0f0c29?style=for-the-badge&logo=jsonwebtokens&logoColor=A78BFA)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+**Database & Cloud**
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=A78BFA)
+![MySQL](https://img.shields.io/badge/MySQL-0f0c29?style=for-the-badge&logo=mysql&logoColor=A78BFA)
+![Vercel](https://img.shields.io/badge/Vercel-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA)
+![Render](https://img.shields.io/badge/Render-0f0c29?style=for-the-badge&logo=render&logoColor=A78BFA)
 
-## 🗄️ Database & Cloud
+**Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=A78BFA)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/Postman-0f0c29?style=for-the-badge&logo=postman&logoColor=A78BFA)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0f0c29?style=for-the-badge&logo=intellijidea&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/VS_Code-0f0c29?style=for-the-badge&logo=visual-studio-code&logoColor=A78BFA)
 
----
-
-## 🛠️ Developer Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+</div>
 
 ---
 
-# 🚀 Current Focus
+## 🚀 Currently
 
 ```yaml
-Learning:
-  - Spring Security
-  - Microservices
-  - Docker
-  - System Design
-
-Building:
-  - Full Stack SaaS Apps
-  - Authentication Systems
-  - API Platforms
-  - Dashboard Applications
+learning:  [ Spring Security, Microservices, Docker, System Design ]
+building:  [ SaaS Apps, Auth Systems, API Platforms, Dashboards    ]
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj-chauhan&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&theme=tokyonight&hide_border=true&layout=compact&bg_color=0f0c29&title_color=A78BFA&text_color=ffffff" height="165"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&theme=tokyonight&hide_border=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj-chauhan&theme=tokyonight&hide_border=true&background=0f0c29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="600"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-raj-chauhan&bg_color=0f0c29&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/aditya-raj-chauhan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/_notyoutadii-">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aditya-raj-chauhan">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 🧠 Developer Philosophy
+<div align="center">
 
-> “Great software is built with clean architecture, scalable logic, and consistency.”
+*"Clean architecture. Scalable logic. Consistency."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditya-raj-chauhan&label=Profile%20Views&color=red&style=for-the-badge"/>
-</p>
+</div>
