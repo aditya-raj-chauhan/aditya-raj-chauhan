@@ -6,18 +6,18 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF3131.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-chauhan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FF3131.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF3131.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_notyoutadii-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3131?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-chauhan)
+[![GitHub](https://img.shields.io/badge/GitHub-FF3131?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
+[![Instagram](https://img.shields.io/badge/Instagram-FF3131?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_notyoutadii-)
 [![Profile Views](https://komarev.com/ghpvc/?username=aditya-raj-chauhan&label=Profile+Views&color=FF3131&style=for-the-badge)](https://github.com/aditya-raj-chauhan)
 
 </div>
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding"/>
+## 👨‍💻 Who Am I?
 
-### 👨‍💻 Who Am I?
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 ```java
 class Aditya {
@@ -35,8 +35,10 @@ class Aditya {
 }
 ```
 
-> 💼 **Actively seeking Full Stack / Backend roles**
-> Building production-grade apps, not just tutorials.
+- 🔴 **2+ years** building full-stack Java applications
+- 🔴 Focused on **clean architecture** & **API-first** design
+- 🔴 Strong in **backend systems** — auth, security, REST
+- 🔴 **Actively seeking** Full Stack / Backend roles
 
 <br clear="right"/>
 
@@ -46,52 +48,89 @@ class Aditya {
 
 <div align="center">
 
-**// Languages**
-
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=FF3131)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=FF3131)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=FF3131)
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FF3131)
-
-**// Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=for-the-badge&logo=springboot&logoColor=FF3131)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0a0a0a?style=for-the-badge&logo=springsecurity&logoColor=FF3131)
-![JWT](https://img.shields.io/badge/JWT-0a0a0a?style=for-the-badge&logo=jsonwebtokens&logoColor=FF3131)
-![REST API](https://img.shields.io/badge/REST_API-0a0a0a?style=for-the-badge&logoColor=FF3131)
-
-**// Frontend**
-
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=FF3131)
-![Redux](https://img.shields.io/badge/Redux-0a0a0a?style=for-the-badge&logo=redux&logoColor=FF3131)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=FF3131)
-![React Router](https://img.shields.io/badge/React_Router-0a0a0a?style=for-the-badge&logo=react-router&logoColor=FF3131)
-![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=FF3131)
-
-**// Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=FF3131)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=FF3131)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=FF3131)
-![Render](https://img.shields.io/badge/Render-0a0a0a?style=for-the-badge&logo=render&logoColor=FF3131)
-
-**// Tools**
-
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=FF3131)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=FF3131)
-![Postman](https://img.shields.io/badge/Postman-0a0a0a?style=for-the-badge&logo=postman&logoColor=FF3131)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0a0a0a?style=for-the-badge&logo=intellijidea&logoColor=FF3131)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=FF3131)
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-FF3131?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-FF3131?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF3131?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-FF3131?style=flat-square&logo=mysql&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-FF3131?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-FF3131?style=flat-square&logo=springsecurity&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-FF3131?style=flat-square&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF3131?style=flat-square&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-FF3131?style=flat-square&logo=react&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-FF3131?style=flat-square&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-FF3131?style=flat-square&logo=tailwind-css&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-FF3131?style=flat-square&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-FF3131?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-FF3131?style=flat-square&logo=mysql&logoColor=white) |
+| **Cloud** | ![Vercel](https://img.shields.io/badge/Vercel-FF3131?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-FF3131?style=flat-square&logo=render&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-FF3131?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF3131?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF3131?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-FF3131?style=flat-square&logo=docker&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-FF3131?style=flat-square&logo=intellijidea&logoColor=white) |
 
 </div>
 
 ---
 
-## 🚀 Right Now
+## 🏗️ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Auth System — Spring Boot + JWT
+Full authentication backend with Spring Security, JWT token management, refresh tokens, and role-based access control.
+
+**Stack:** `Spring Boot` `Spring Security` `JWT` `MongoDB`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
+
+</td>
+<td width="50%">
+
+### ⚛️ Full Stack Dashboard — React + Spring
+Admin dashboard with real-time data, REST API integration, protected routes, and Redux state management.
+
+**Stack:** `React.js` `Redux` `TailwindCSS` `Spring Boot`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛢️ REST API Platform — MongoDB
+Scalable REST API with CRUD operations, pagination, filtering, validation, and Postman-tested endpoints.
+
+**Stack:** `Spring Boot` `MongoDB` `REST API` `Postman`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
+
+</td>
+<td width="50%">
+
+### 🚀 SaaS App — Full Stack
+Production-ready SaaS with user management, subscription flows, responsive UI, and cloud deployment.
+
+**Stack:** `React.js` `Spring Boot` `MySQL` `Vercel`
+
+[![Repo](https://img.shields.io/badge/View_Repo-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan)
+
+</td>
+</tr>
+</table>
+
+> 📌 *Update project names/links above with your actual repos*
+
+---
+
+## 💡 What I Bring to Your Team
+
+```
+✅  Clean, readable, maintainable code
+✅  REST API design with proper status codes, error handling & docs
+✅  JWT-based auth from scratch — no magic, just code
+✅  React + Spring Boot integration — end to end
+✅  MongoDB schema design for scale
+✅  Fast learner — Docker & Microservices currently in progress
+✅  Communicates clearly, commits daily, ships on time
+```
+
+---
+
+## 🚀 Currently Learning
 
 ```yaml
-# what's on my plate
-
 learning:
   - Microservices Architecture
   - Docker + Container Orchestration
@@ -105,9 +144,9 @@ shipping:
   - Admin Dashboard UIs
 
 available_for:
-  - Full Stack Developer Roles
-  - Backend Developer Roles
-  - Freelance / Contract Projects
+  - Full Stack Developer Roles  ✅
+  - Backend Developer Roles     ✅
+  - Freelance / Contract Work   ✅
 ```
 
 ---
@@ -116,29 +155,36 @@ available_for:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&icon_color=FF3131&text_color=ffffff&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&icon_color=FF3131&text_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&text_color=ffffff" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj-chauhan&theme=dark&hide_border=true&background=0a0a0a&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=ffffff&dates=888888" width="600"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-raj-chauhan&bg_color=0a0a0a&color=FF3131&line=FF3131&point=ffffff&area=true&area_color=FF313130&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj-chauhan&theme=dark&hide_border=true&background=0a0a0a&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=ffffff&dates=888888" width="580"/>
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
 <div align="center">
 
-### 💼 Let's Build Something Great
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/aditya-raj-chauhan](https://linkedin.com/in/aditya-raj-chauhan) |
+| 🐙 **GitHub** | [github.com/aditya-raj-chauhan](https://github.com/aditya-raj-chauhan) |
+| 📸 **Instagram** | [@_notyoutadii-](https://instagram.com/_notyoutadii-) |
 
-*Available for full-time roles, freelance projects, and open source collabs.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-%23FF3131.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-raj-chauhan)
+[![Hire Me](https://img.shields.io/badge/💼_HIRE_ME-FF3131?style=for-the-badge&logoColor=white)](https://linkedin.com/in/aditya-raj-chauhan)
+[![View Projects](https://img.shields.io/badge/🚀_VIEW_PROJECTS-FF3131?style=for-the-badge&logoColor=white)](https://github.com/aditya-raj-chauhan)
 
 <br/>
 
 *"Clean architecture. Scalable logic. Ship it."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:0a0a0a&height=120&section=footer"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0000,50:1a0000,100:0a0a0a&height=120&section=footer"/>
