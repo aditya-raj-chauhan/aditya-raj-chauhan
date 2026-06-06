@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:2d0000&height=220&section=header&text=Aditya%20Raj%20Chauhan&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60&descSize=18&descColor=FF3131&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=900&color=FF3131&center=true&vCenter=true&width=700&lines=☕+Spring+Boot+→+Production-Ready+REST+APIs;⚛️+React.js+→+Scalable+Frontend+Architectures;🔐+JWT+Auth+→+Secure+End-to-End+Systems;🛢️+MongoDB+→+Optimized+Data+Pipelines;🚀+Open+to+Full+Stack+Roles+%7C+Hire+Me!" alt="Typing SVG" />
+<!-- Typing SVG — demolab is the stable, self-hosted fork -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=FF3131&center=true&vCenter=true&repeat=true&width=700&lines=%E2%98%95+Spring+Boot+%E2%86%92+Production-Ready+REST+APIs;%E2%9A%9B%EF%B8%8F+React.js+%E2%86%92+Scalable+Frontend+Architectures;%F0%9F%94%90+JWT+Auth+%E2%86%92+Secure+End-to-End+Systems;%F0%9F%9B%A2%EF%B8%8F+MongoDB+%E2%86%92+Optimized+Data+Pipelines;%F0%9F%9A%80+Open+to+Full+Stack+Roles+%7C+Hire+Me!" alt="Typing SVG" />
 
 <br/>
 
@@ -68,7 +69,7 @@ class Aditya {
 <td width="50%">
 
 ### 📚 Prompt Library
-A full-stack platform to store, organize, and reuse AI prompts. Features JWT auth, Cloudinary media uploads, protected routes, and a clean React UI with search & category filtering.
+Full-stack platform to store, organize, and reuse AI prompts. JWT auth, Cloudinary uploads, protected routes, search & category filtering.
 
 **Stack:**
 `Spring Boot` `Spring Security` `JWT` `MongoDB` `Cloudinary API`
@@ -81,7 +82,7 @@ A full-stack platform to store, organize, and reuse AI prompts. Features JWT aut
 <td width="50%">
 
 ### 🪣 Baised — File Sharing Bucket
-A cloud file-sharing app with drag-and-drop uploads, shareable links, and Cloudinary-powered storage. Built with a Spring Boot REST backend and a React frontend with real-time upload feedback.
+Cloud file-sharing with drag-and-drop uploads, shareable links, and Cloudinary-powered storage. Real-time upload feedback on a clean React UI.
 
 **Stack:**
 `Spring Boot` `Spring Security` `JWT` `MongoDB` `Cloudinary API`
@@ -96,11 +97,10 @@ A cloud file-sharing app with drag-and-drop uploads, shareable links, and Cloudi
 <td width="50%">
 
 ### 🤖 Resume Init — AI Resume Builder
-An AI-powered resume builder that generates tailored resumes from user input. Spring Boot backend handles resume parsing, scoring, and Groq AI integration for content suggestions.
+AI-powered resume builder with resume parsing, scoring logic, and Groq AI content suggestions. Full Spring Boot backend with secured endpoints.
 
 **Stack:**
-`Spring Boot` `Spring Security` `JWT` `MongoDB`
-`Groq AI API` `REST API` `Postman`
+`Spring Boot` `Spring Security` `JWT` `MongoDB` `Groq AI API` `REST API`
 
 [![Backend](https://img.shields.io/badge/Backend-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan/Resume-init)
 
@@ -108,11 +108,11 @@ An AI-powered resume builder that generates tailored resumes from user input. Sp
 <td width="50%">
 
 ### 🔗 AutoLinkedIn — LinkedIn Automation
-Automates LinkedIn outreach — connection requests, follow-ups, and profile engagement — using the LinkedIn API and Groq AI for personalized message generation.
+Automates LinkedIn outreach — connection requests, follow-ups, and engagement — with Groq AI generating personalized messages via LinkedIn API.
 
 **Stack:**
-`Spring Boot` `Spring Security` `JWT` `MongoDB`
-`LinkedIn API` `Groq AI API` `React.js` `TailwindCSS` `Axios`
+`Spring Boot` `Spring Security` `JWT` `MongoDB` `LinkedIn API` `Groq AI API`
+`React.js` `TailwindCSS` `Axios`
 
 [![Frontend](https://img.shields.io/badge/Frontend-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan/AutoLinkedIn-frontend)
 [![Backend](https://img.shields.io/badge/Backend-FF3131?style=flat-square&logo=github&logoColor=white)](https://github.com/aditya-raj-chauhan/AutoLinkedIn)
@@ -158,16 +158,14 @@ available_for:
 
 <div align="center">
 
-<a href="https://github.com/aditya-raj-chauhan">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&icon_color=FF3131&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FF3131&text_color=ffffff" />
-</a>
+<!-- Streak — demolab, reliable -->
+<img src="https://streak-stats.demolab.com?user=aditya-raj-chauhan&theme=dark&hide_border=true&background=0a0a0a&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=ffffff&dates=888888" width="600"/>
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=aditya-raj-chauhan&theme=dark&hide_border=true&background=0a0a0a&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=ffffff&dates=888888" width="580"/>
-</a>
+<!-- Stats — anuraghazra stable instance -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aditya-raj-chauhan&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=FF3131&icon_color=FF3131&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj-chauhan&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=FF3131&text_color=ffffff&cache_seconds=1800" />
 
 </div>
 
